@@ -1,0 +1,2 @@
+C:\Users\sehen\OneDrive\Masaüstü\reactproject1\reactproject1\obj\Debug\reactproject1.esproj.SuggestedBindingRedirects.cache
+C:\Users\sehen\OneDrive\Masaüstü\reactproject1\reactproject1\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache

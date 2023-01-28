@@ -1,0 +1,2 @@
+C:\Users\sehen\OneDrive\Masaüstü\Api\Api\obj\Debug\api.esproj.SuggestedBindingRedirects.cache
+C:\Users\sehen\OneDrive\Masaüstü\Api\Api\obj\Debug\api.esproj.CoreCompileInputs.cache
